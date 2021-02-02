@@ -1,7 +1,7 @@
 <template>
     <div>
         <v-container fluid class="hero">
-            <h1>Welcome to BoojiBooks!</h1>
+            <h1>Welcome to BoojBooks!</h1>
             <p>I'm your host, Justin Reasoner 👋</p>
         </v-container>
         <v-container fluid>
